@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.containeer{
+    height: 97vh;
+    width: 30vw;
+    background-color: rgb(248,158,49);
+    padding: 10px;
+    margin-left: 30%;
+
+}
+.bg_containeer{
+    background-image: url("image.jpg");
+    background-size: cover;
+    height: 30%;
+    border-radius: 12px;
+
+}
+.containeer2{
+    display: flex;
+    height: 5%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.btn{
+    width: 25%;
+    border-radius: 10px;
+    border: none;
+    color: rgb(222,181,105);
+}
+.start{
+    font-size: 30px;
+    color: aliceblue;
+
+}containeer3{
+    height:29%;
+}
+.para{
+    font-size: 21px;
+    align-items: flex-start;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.movies{
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(255,255,0);
+
+}
+.containeer4{
+    height: 26%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}
+.image1{
+    height: 100%;
+    width: 29%;
+    background-image: url("/nemo\ 1.jpg");
+    border-radius: 15px;
+}
+.image2{
+    height: 100%;
+    width: 29%;
+    background-image: url("/nemo\ 2.jpg");
+    border-radius: 15px;
+}
+.image3{
+    height: 100%;
+    width: 29%;
+    background-image: url("/nemo\ 3.jpg");
+    border-radius: 15px;
+}
